@@ -1,0 +1,55 @@
+body{
+    background-color: gray !important;
+}
+
+
+.title{
+    margin: 2%
+}
+
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+input::placeholder {
+    color: rgb(165, 165, 165) !important;
+    border-color: none !important;
+  }
+
+.btn-primary{
+    background-color: green !important;
+    border: none !important;
+}
+
+.form-text{
+    color: rgb(1, 1, 2) !important;
+}
+
+input{
+    background-color: gray !important;
+    color: white !important;
+}
+
+.nav{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.addLivro{
+    background-color: green !important;
+    color: white !important;
+}
+
+.delLivro{
+    background-color: red !important;
+    color: white !important;
+}
+
+.data{
+    color: white !important;
+}
