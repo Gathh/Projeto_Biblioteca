@@ -43,13 +43,26 @@ input{
 .addLivro{
     background-color: green !important;
     color: white !important;
+    border: none !important;
 }
 
 .delLivro{
-    background-color: red !important;
+    background-color: rgb(255, 153, 0) !important;
     color: white !important;
+    border: none;
 }
 
 .data{
     color: white !important;
+}
+
+.modal{
+    background-color: gray;
+    color: rgb(255, 255, 255);
+}
+
+.modal-content{
+    justify-content: center;
+    background-color: rgb(68, 68, 68);
+    border: none;
 }
